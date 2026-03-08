@@ -1,0 +1,24 @@
+{
+  "name": "PlantCare - AI Plant Identification",
+  "short_name": "PlantCare",
+  "description": "AI-powered educational plant identification for teachers and students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2d4530",
+  "theme_color": "#2d4530",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "lifestyle"],
+  "lang": "en"
+}
